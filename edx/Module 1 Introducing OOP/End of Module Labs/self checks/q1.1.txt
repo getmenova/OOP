@@ -1,0 +1,3 @@
+What data type is the correct type for the student array in the Course object?
+
+STUDENT

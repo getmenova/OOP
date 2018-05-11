@@ -1,0 +1,2 @@
+Which access modifier is the default modifier applied to class members, if you don't explicitly specify one?
+private correct

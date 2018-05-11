@@ -1,0 +1,3 @@
+After you create a class, what must you do before you can use it in your code?
+Instantiate it in code, creating an object of that type correct
+

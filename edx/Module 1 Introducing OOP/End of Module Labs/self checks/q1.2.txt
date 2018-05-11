@@ -1,0 +1,3 @@
+Where is the correct place to increment the static class variable for the count of students?
+
+In the student constructor

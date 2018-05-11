@@ -1,0 +1,17 @@
+Evaluate the following code snippet:
+
+public class Manager
+{
+    public void EvaluateEmployee(Employee emp);
+}
+
+public class Manager
+{
+    public void Login();
+}
+
+Type in the C# keyword that is required in the class definitions to allow the code to compile successfully?
+
+
+
+PARTIAL
