@@ -1,0 +1,11 @@
+Interface Self Check
+1/1 point (graded)
+What naming convention is used for interfaces?
+Initial lower case
+Start the name with an underscore
+Start the name with Interface
+Initial uppercase letter I correct
+ Submit You have used 1 of 1 attempt Some problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
+
+Show Answer
+Correct (1/1 point) Review

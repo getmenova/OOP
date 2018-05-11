@@ -1,0 +1,1 @@
+IBeverage beverage = coffee1;
