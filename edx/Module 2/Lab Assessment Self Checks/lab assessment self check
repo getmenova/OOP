@@ -1,0 +1,21 @@
+Lab Assessment Self Checks
+
+
+Select the properties that would belong in the Person base class, to be inherited in the Teacher and Student sub classes.
+FirstName correct
+Course
+Teacher
+LastName correct
+BirthDate correct
+School
+Degree
+Country correct
+
+
+Answers are displayed within the problem Review
+Question 2
+1/1 point (graded)
+True or False, the following code is legal in C# assuming that Student inherits Person.
+Student myStudent = new Student();
+Person myPerson = myStudent;
+True correct
