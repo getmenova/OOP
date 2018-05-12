@@ -1,0 +1,11 @@
+Self-Check One
+ Bookmark this page
+Self-Check One
+1/1 point (graded)
+Select two advantages of the garbage collector.
+Frees the developer from memory management worries
+Runs when the application shuts down
+Reclaims objects that are no longer being used
+Defragments the hard drive for faster access to application code
+correct
+Submit You have used 1 of 1 attempt Some problems have options such as save, reset, hints, or show answer. These options follow the Submit button.
